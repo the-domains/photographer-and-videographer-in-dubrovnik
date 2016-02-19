@@ -1,6 +1,6 @@
 name: 'Photographer & Videographer in Dubrovnik'
 favicon: null
-layout_spectrum: 0.9404587086755782
+layout_spectrum: 0.24811
 typography_spectrum: 0.757014992646873
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#020202'
-    - '#ff9400'
-    - '#ff5200'
-    - '#a96b31'
-    - '#ca341b'
-  brandStrength: 0.9923612575512379
-  lightness: 0.5203136631753296
-  saturation: 0.8912377953529358
-  rhythmicContrast: 0.6886592442169785
+    - '#d3d3d3'
+    - '#b5b5b5'
+    - '#141414'
+    - '#666666'
+    - '#fbfbfb'
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
