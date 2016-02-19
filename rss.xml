@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Photographer & Videographer in Dubrovnik]]></title>
         <description><![CDATA[Photographer & Videographer in Dubrovnik]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ninoknezevic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 18:51:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 08:05:15 GMT</lastBuildDate>
+        <atom:link href="http://ninoknezevic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af7b6d7e-f29a-4ea7-959d-c29923237243.jpg">]]></description>
-            <link>undefined297633e2-6ae5-4e50-b2b7-e59b61319dd3/index.html</link>
+            <link>http://ninoknezevic.com/297633e2-6ae5-4e50-b2b7-e59b61319dd3/index.html</link>
             <guid isPermaLink="false">297633e2-6ae5-4e50-b2b7-e59b61319dd3</guid>
-            <pubDate>Mon, 01 Feb 2016 18:50:34 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 08:05:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
